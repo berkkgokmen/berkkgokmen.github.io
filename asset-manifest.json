@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.f7163fcd.css",
+    "main.js": "/static/js/main.aa49ce30.js",
+    "static/js/453.ed3810f9.chunk.js": "/static/js/453.ed3810f9.chunk.js",
+    "static/media/hacklines.otf": "/static/media/hacklines.962bdb548e39bf36ab90.otf",
+    "static/media/VCR_OSD_MONO_1.001.ttf": "/static/media/VCR_OSD_MONO_1.001.10cf96d54dcd9af0486c.ttf",
+    "static/media/portait (1).png": "/static/media/portait (1).df534343e9a0089000f2.png",
+    "static/media/GT-America-Extended-Ultra-Light-Italic-Trial.otf": "/static/media/GT-America-Extended-Ultra-Light-Italic-Trial.7270c56323c731f5e3e9.otf",
+    "static/media/GT-America-Extended-Ultra-Light-Trial.otf": "/static/media/GT-America-Extended-Ultra-Light-Trial.990a983fae72ded574ff.otf",
+    "static/media/GT-America-Standard-Regular-Italic-Trial.otf": "/static/media/GT-America-Standard-Regular-Italic-Trial.c3b4bc89174d671ab0fe.otf",
+    "static/media/GT-America-Standard-Regular-Trial.otf": "/static/media/GT-America-Standard-Regular-Trial.f3ce2bb57f0dac202adb.otf",
+    "static/media/Daydream.ttf": "/static/media/Daydream.84eda7c4245e10bffa4b.ttf",
+    "index.html": "/index.html",
+    "main.f7163fcd.css.map": "/static/css/main.f7163fcd.css.map",
+    "main.aa49ce30.js.map": "/static/js/main.aa49ce30.js.map",
+    "453.ed3810f9.chunk.js.map": "/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f7163fcd.css",
+    "static/js/main.aa49ce30.js"
+  ]
+}
